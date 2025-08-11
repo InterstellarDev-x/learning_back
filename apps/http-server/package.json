@@ -16,5 +16,6 @@
   "@repo/typescript-config" : "workspace:*",
   "express": "^5.1.0",
   "@repo/db" : "workspace:*" 
- }
+ },
+ "type": "module"
 }
