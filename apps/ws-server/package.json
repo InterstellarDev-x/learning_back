@@ -19,6 +19,5 @@
   "@types/ws": "^8.18.1",
    "@repo/typescript-config": "workspace:*",
    "@repo/db" : "workspace:*"
- },
- "type": "module"
+ }
 }
