@@ -20,5 +20,6 @@
    "@repo/typescript-config": "workspace:*",
    "@repo/db" : "workspace:*"
  },
- "type": "module"
+ "type": "commonjs"
+
 }
